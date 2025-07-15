@@ -12,6 +12,6 @@ is a sacred golden relic left behind by the Golden Goddesses — **Din**, **Nayr
 The **Goddess Hylia** was entrusted with the duty of safeguarding both the world and the Triforce. However, after her rebirth as a mortal, the responsibility of its protection was passed down to the **Royal Family of Hyrule**, the **Sages**, and the **Sheikah**.
 
 The **Triforce** symbolizes 
-- <span style="color:red">**Power**</span>, often residing in the Demon King, Ganondorf
-- <span style="color:blue">**Wisdom**</span>, often residing in the Princess of Hyrule, Zelda
-- <span style="color:green">**Courage**</span>, often residing in the Hero of Hyrule, Link 
+- $${\color{red}Power}$$, often residing in the Demon King, Ganondorf
+- $${\color{blue}Wisdom}$$, often residing in the Princess of Hyrule, Zelda
+- $${\color{green}Courage}$$, often residing in the Hero of Hyrule, Link 
