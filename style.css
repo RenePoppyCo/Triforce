@@ -1,0 +1,49 @@
+
+body {
+  background-color: black;
+  height: 100vh;
+  margin: 0;
+}
+
+h1 {
+  color: aliceblue;
+  text-align: center;
+  margin-top: 0;
+}
+
+.triforce {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 200px;
+  height: 200px;
+}
+
+.Triangle {
+  border-left: 50px solid transparent;
+  border-right: 50px solid transparent;
+  border-bottom: 86.6px solid gold;
+  position: absolute;
+  cursor: pointer;
+  transition: border-bottom-color 0.3s ease;
+}
+
+.Triangle:hover {
+  filter: brightness(80%)
+}
+
+.Power {
+  top: 27px;
+  left: 50px;
+}
+
+.Wisdom {
+  bottom: 0;
+  left: 0;
+}
+
+.Courage {
+  bottom: 0;
+  right: 0;
+}
